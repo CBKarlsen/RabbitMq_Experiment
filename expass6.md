@@ -27,4 +27,16 @@ Process finished with exit code 0
 
 [Worker](https://github.com/CBKarlsen/RabbitMq_Experiment/blob/master/src/main/java/org/example/work_queues/Worker.java)
 
-Worked as intended, had no problem implementing
+Worked as intended, had no problem implementing the code.
+
+### Experiment 4 - topics
+
+[EmitLog](https://github.com/CBKarlsen/RabbitMq_Experiment/blob/master/src/main/java/org/example/Topics/EmitLog.java)
+
+[RecevieLogs](https://github.com/CBKarlsen/RabbitMq_Experiment/blob/master/src/main/java/org/example/Topics/ReceiveLogs.java)
+
+Had no issues in implementing these, works as intended.
+
+### Issues
+
+I had some issue when trying to test the code. In the end I executed the code with the help of the IDE.
